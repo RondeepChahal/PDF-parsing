@@ -1,0 +1,5 @@
+# Specific file types
+.ipynb_checkpoints
+*.csv
+*.pdf
+*.zip
